@@ -12,3 +12,4 @@ C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\exs POO 28-05\ob
 C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\exs POO 28-05\obj\Debug\net8.0\exs POO 28-05.pdb
 C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\exs POO 28-05\obj\Debug\net8.0\exs POO 28-05.genruntimeconfig.cache
 C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\exs POO 28-05\obj\Debug\net8.0\ref\exs POO 28-05.dll
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\exs POO 28-05\obj\Debug\net8.0\exs POO 28-05.sourcelink.json
